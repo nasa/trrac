@@ -1,0 +1,13 @@
+{
+    "data_process_block" : true,
+    "save_concat_df_block" : false,
+    "load_concat_df_to_clipboard_block" : false,
+    "profile_data_block" : false,
+    "generate_pickle_block" : false,
+    "mrmr_fitting_block" : false,
+    "rf_fitting_block" : false,
+    "svm_fitting_block" : false,
+    "lda_fitting_block" : false,
+    "accuracy_block" : false,
+    "test_block": true
+}
