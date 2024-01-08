@@ -1,6 +1,6 @@
 # Translational Radiation Research (TRRaC) - Spaced Out Data No More: Genomic Harmonization Meets Machine Learning in Murine Livers
 
-The purpose of this repository is to provide the necessary code to perform our analysis and generate figures necessary for our the publication *Spaced Out Data No More: Genomic Harmonization Meets Machine Learning in Murine Livers*. 
+The purpose of this repository is to provide the necessary code to perform our analysis and generate figures necessary for our the publication *Harmonizing Heterogeneous Transcriptomics Datasets for Machine Learning based Analysis to Identify Spaceflown Murine Liver-specific changes*. 
 
 # Authorship Details
 - Repository Owner: Hari Ilangovan, Senior Data Scientist, SAIC, NASA Information, Data and Analytics Services, NASA Langley Research Center
