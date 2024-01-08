@@ -1,4 +1,4 @@
-# Translational Radiation Research (TRRaC) - Spaced Out Data No More: Genomic Harmonization Meets Machine Learning in Murine Livers
+# Translational Radiation Research (TRRaC) - Harmonizing Heterogeneous Transcriptomics Datasets for Machine Learning based Analysis to Identify Spaceflown Murine Liver-specific changes 
 
 The purpose of this repository is to provide the necessary code to perform our analysis and generate figures necessary for our the publication *Harmonizing Heterogeneous Transcriptomics Datasets for Machine Learning based Analysis to Identify Spaceflown Murine Liver-specific changes*. 
 
